@@ -21,4 +21,4 @@ News
 * 08/2021: Our paper on neuro-inspired deep learning has been accepted by [Neural Networks](https://www.journals.elsevier.com/neural-networks)! Paper and code will be available soon!
 * 06/2021: Our paper on modeling patient health stage development with dynamic attributed graphs has been accepted by [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! 
 
-<a href="https://clustrmaps.com/site/1bjt9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=wCOebEYBW1at8kUgFzwn93ofWhY_l-zJPQ-u5DpDfLE&cl=ffffff" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wCOebEYBW1at8kUgFzwn93ofWhY_l-zJPQ-u5DpDfLE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
