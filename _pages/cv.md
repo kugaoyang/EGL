@@ -9,51 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
+* B.S. in Computer Science, Shandong University, China (2010 - 2014)
+* M.S. in Computer Science (GPA: 3.97, [Distinguished Academic Achievement](https://cs.gmu.edu/media/uploads/brochure_2019v212.pdf)), George Mason University (2015 - 2018)
+* Ph.D. in Computer Science, Emory University (2018 - present)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
+* Summer 2020: Research Intern @ [Microsoft Resarch](https://www.microsoft.com/en-us/research/)
+  * Job Description: [Research Intern - Language and Information Technologies](https://careers.microsoft.com/us/en/job/742793/Research-Intern-Language-and-Information-Technologies)
+  * Location: Redmond, Washington, United States
+  * Reaserch Topic: Representation Learning for Email Heterogeneous Networks
+  * Mentor: Dr. Wei Wang
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching Experience
+* Graduate Teaching Assistant @ George Mason University
+  * IT 664 Information: Representation, Processing and Visualization (2019 Fall - 2020 Spring)
+  * IT 664, IT 724, and IT 734 (2019 Spring)
+  * IT 664 Information: Representation, Processing and Visualization (2018 Fall)
+  * IT 314 Database Management (2018 Spring)
+  * IT 214 Database Fundamentals  (2017 Fall)
+  * CS450 and CS550 Database concepts (2015 Fall - 2017 Spring)
+
+## Selected Publications
+
+* Conference Papers
+  * **Yuyang Gao**, Tong Sun, Rishab Bhatt, Dazhou Yu, Sungsoo Hong, and Liang Zhao. GNES: Learning to Explain Graph Neural Networks. The 21st IEEE International Conference on Data Mining (**ICDM 2021**), (Acceptance Rate: 9.9%), to appear.  \[paper\] \[code\]
+  * **Yuyang Gao**, Lingfei Wu, Houman Homayoun, and Liang Zhao. DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums. The 19th International Conference on Data Mining (**ICDM 2019**), short paper, (acceptance rate: 18.05%), Beijing, China, Nov 2019. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/DynGraph2Seq_final.pdf)
+  * **Yuyang Gao**, Liang Zhao, Lingfei Wu, Yanfang Ye, Hui Xiong, Chaowei Yang. Incomplete Label Multi-task Deep Learning for Spatio-temporal Event Subtype Forecasting. Thirty-third AAAI Conference on Artificial Intelligence (**AAAI 2019**), (acceptance rate: 16.2%), Hawaii, USA, Feb 2019. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/main_AAAI2019.pdf) [\[code\]](http://cs.emory.edu/~lzhao41/pages/materials/codes/SIMDA_code.zip)
+  * Junxiang Wang, **Yuyang Gao**, Andreas Zufle, Jingyuan Yang, and Liang Zhao. Incomplete Label Uncertainty Estimation for Petition Victory Prediction with Dynamic Features. In Proceedings of the IEEE International Conference on Data Mining (**ICDM 2018**), regular paper (acceptance rate: 8.9%), Singapore, Nov 2018. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/MLUE_final.pdf) [\[code\]](http://cs.emory.edu/~lzhao41/pages/materials/codes/MLUE.zip)
+  * **Yuyang Gao** and Liang Zhao. Incomplete Label Multi-Task Ordinal Regression for Spatial Event Scale Forecasting. Thirty-Second AAAI Conference on Artificial Intelligence (**AAAI 2018**), Oral presentation (acceptance rate: 11.0%), New Orleans, US, Feb 2018. [\[paper\]](https://github.com/zhaoliangvaio/homepage/blob/master/materials/MITOR.pdf) [\[code\]](http://mason.gmu.edu/~lzhao9/materials/codes/MITOR_Code.zip)
+
+* Journal Papers
+  * **Yuyang Gao**, Giorgio Ascoli, Liang Zhao. Schematic Memory Persistence and Transience for Efficient and Robust Continual Learning. **Neural Networks**, (impact factor: 8.05), 144 (2021) 49–60. [\[paper\]](https://authors.elsevier.com/a/1ddo13BBjKgGkU) [\[code\]](https://github.com/YuyangGao/SMART)
+  * **Yuyang Gao**, Tanmoy Chowdhury (co-first author), Lingfei Wu, Liang Zhao. Modeling Health Stage Development of Patients with Dynamic Attributed Graphs in Online Health Communities. IEEE Transactions on Knowledge and Data Engineerings (**TKDE**), (impact factor: 4.935), 2021. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/DynGraph2Seq_TKDE2021.pdf) \[code\]
+  * Liang Zhao, **Yuyang Gao**, Jieping Ye, Feng Chen, Fanny Ye, Chang-tien Lu, and Naren Ramakrishnan. Spatio-temporal Event Forecasting Using Incremental Multi-source Feature Learning. ACM Transactions on Knowledge Discovery from Data (**TKDD**), (impact factor: 3.089), 2021. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/TKDD2020_preprinted.pdf) [\[code\]](http://cs.emory.edu/~lzhao41/materials/codes/oHIML_pub.zip)
+  * **Yuyang Gao**, Giorgio Ascoli, Liang Zhao. BEAN: Interpretable and Efficient Learning with Biologically-Enhanced Artificial Neuronal Assembly. **Frontiers in Neurorobotics**, (impact factor: 2.574), 2021. [\[paper\]](https://www.frontiersin.org/articles/10.3389/fnbot.2021.567482/full) [\[code\]](https://github.com/YuyangGao/BEAN)
+  * **Yuyang Gao**, Wei Liang, Yuming Shi and Qiuling Huang. Comparison of directed and weighted co-occurrence networks of six languages. **Physica A: Statistical Mechanics and its Applications**, (impact factor: 2.243), 393:579–589, 2014. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S037843711300825X)
+
+
+## Academic Activities & Services
+* 2021
+  * Served as PC Member for AAAI 2022 (08/2021)
+  * Served as Independent Reviewer for TOIS (07/2021)
+  * Served as Independent Reviewer for TNNLS (06/2021)
+  * Served as PC Member for DLG workshop @ KDD 2021 (06/2021)
+* 2020
+  * Served as PC Member for DLG workshop @ AAAI 2021 (12/2020)
+  * Served as Independent Reviewer for IJIS (06/2020)
+  * Invited talk at CN3 seminar talk at Krasnow Institute - George Mason University (06/2020)
+  * Served as Independent Reviewer of TKDD (06/2020)
+  * Served as PC Member for DLG workshop @ KDD 2020 (05/2020)
+  * Served as Independent Reviewer for TKDD (02/2020)
+* 2019
+  * Served as PC Member for DLGMA workshop @ AAAI 2020 (12/2019)
+  * Presented our paper @ ICDM 2019, Beijing, China (11/2019)
+  * Served as Publicity Chair for DeepSpatial workshop @ ICDM 2019 (11/2019)
+  * Presented our paper @ AAAI 2019, Hawaii (02/2019)
+* 2018
+  * Presented our paper @ AAAI 2018, New Orleans (02/2018)
+
+## Rewards
+* [Distinguished Academic Achievement](https://cs.gmu.edu/media/uploads/brochure_2019v212.pdf) @ George Mason Univerity
+* Student Travel Award @ [ICDM 2019](http://icdm2019.bigke.org/)
+* Student Travel Award @ [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
+ 
