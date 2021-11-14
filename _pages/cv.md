@@ -50,6 +50,7 @@ redirect_from:
 
 ## Academic Activities & Services
 * 2021
+  * Served as PC Member for DLG and GCLR workshops @ AAAI 2022 (10/2021)
   * Served as PC Member for AAAI 2022 (08/2021)
   * Served as Independent Reviewer for TOIS (07/2021)
   * Served as Independent Reviewer for TNNLS (06/2021)
