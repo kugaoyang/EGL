@@ -49,6 +49,12 @@ redirect_from:
 
 
 ## Academic Activities & Services
+* 2022
+  * Served as PC Member for KDD 2022 (3/2022)
+  * Served as Independent Reviewer for JMLR (3/2022)
+  * Served as Independent Reviewer for TKDD (3/2022)
+  * Served as Independent Reviewer for TOIS (3/2022)
+  * Served as PC Member for CSCW 2022 (2/2022)
 * 2021
   * Served as PC Member for DLG and GCLR workshops @ AAAI 2022 (10/2021)
   * Served as PC Member for AAAI 2022 (08/2021)
