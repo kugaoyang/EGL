@@ -77,6 +77,7 @@ redirect_from:
   * Presented our paper @ AAAI 2018, New Orleans (02/2018)
 
 ## Rewards
+* Student Attendance Award @[ICDM 2021](https://icdm2021.auckland.ac.nz/)
 * [Distinguished Academic Achievement](https://cs.gmu.edu/media/uploads/brochure_2019v212.pdf) @ George Mason Univerity
 * Student Travel Award @ [ICDM 2019](http://icdm2019.bigke.org/)
 * Student Travel Award @ [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
