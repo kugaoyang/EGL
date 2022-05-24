@@ -14,8 +14,11 @@ Welcome! I am a Ph.D. student in the Department of Computer Science at Emory Uni
 
 I have published many peer-reviewed full research papers in top-tier conferences and journals such as AAAI, ICDM, TKDD, TKDE, and Neural Networks. I have also served as the Independent Reviewer and PC member for many top-tier conferences and journals such as KDD, AAAI, CSCW, TKDD, JMLR, TNNLS, and TOIS. You can find more about my works in my [Publication](/publications/), and more about me in my [CV](/cv/).
 
+==I am at the final year of my PhD program and am currently on the job market this year. Please feel free to contact me.==
+
 News
 ======
+* 05/2022: Our new work on robust visual explanation supervision has been accepted by [KDD 2022](https://kdd.org/kdd2022/index.html)! Paper, code will be available soon! Stay tuned~
 * 03/2022: Serve as the PC member for [KDD 2022](https://kdd.org/kdd2022/).
 * 03/2022: Serve as the Independent Reviewer for journals [TOIS](https://dl.acm.org/journal/tois), [TKDD](https://dl.acm.org/journal/tkdd), [JMLR](https://www.jmlr.org/).
 * 02/2022: Serve as the PC member for [CSCW 2022](https://cscw.acm.org/2022/).
