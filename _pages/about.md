@@ -14,9 +14,7 @@ Welcome! I am a Ph.D. student in the Department of Computer Science at Emory Uni
 
 I have published many peer-reviewed full research papers in top-tier conferences and journals such as AAAI, ICDM, TKDD, TKDE, and Neural Networks. I have also served as the Independent Reviewer and PC member for many top-tier conferences and journals such as KDD, AAAI, CSCW, TKDD, JMLR, TNNLS, and TOIS. You can find more about my works in my [Publication](/publications/), and more about me in my [CV](/cv/).
 
-```diff
-- I am at the final year of my PhD program and am currently on the job market this year. Please feel free to contact me via email (yuyang.gao@emory.edu).
-```
+** I am at the final year of my PhD program and am on the job market this year. Please feel free to contact me via email (yuyang.gao@emory.edu) **
 
 News
 ======
