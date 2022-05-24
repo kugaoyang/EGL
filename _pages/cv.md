@@ -34,6 +34,7 @@ redirect_from:
 ## Selected Publications
 
 * Conference Papers
+  * **Yuyang Gao**, Tong Sun, Guangxi Bai, Siyi Gu, Sungsoo Hong, and Liang Zhao. RES: A Robust Framework for Visual Explanation Supervision. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**) (Acceptance Rate: 14.99%), accepted, 2022. [paper] [code]
   * **Yuyang Gao**, Tong Sun, Rishab Bhatt, Dazhou Yu, Sungsoo Hong, and Liang Zhao. GNES: Learning to Explain Graph Neural Networks. The 21st IEEE International Conference on Data Mining (**ICDM 2021**), (Acceptance Rate: 9.9%), to appear.  [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/GNES.pdf) [\[code\]](https://github.com/YuyangGao/GNES)
   * **Yuyang Gao**, Lingfei Wu, Houman Homayoun, and Liang Zhao. DynGraph2Seq: Dynamic-Graph-to-Sequence Interpretable Learning for Health Stage Prediction in Online Health Forums. The 19th International Conference on Data Mining (**ICDM 2019**), short paper, (acceptance rate: 18.05%), Beijing, China, Nov 2019. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/DynGraph2Seq_final.pdf)
   * **Yuyang Gao**, Liang Zhao, Lingfei Wu, Yanfang Ye, Hui Xiong, Chaowei Yang. Incomplete Label Multi-task Deep Learning for Spatio-temporal Event Subtype Forecasting. Thirty-third AAAI Conference on Artificial Intelligence (**AAAI 2019**), (acceptance rate: 16.2%), Hawaii, USA, Feb 2019. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/main_AAAI2019.pdf) [\[code\]](http://cs.emory.edu/~lzhao41/pages/materials/codes/SIMDA_code.zip)
