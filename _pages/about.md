@@ -18,7 +18,7 @@ I have published many peer-reviewed full research papers in top-tier conferences
 
 News
 ======
-* 05/2022: Our new work on robust visual explanation supervision has been accepted by [KDD 2022](https://kdd.org/kdd2022/index.html)! Paper, code will be available soon! Stay tuned~
+* 05/2022: Our new work on robust visual explanation supervision has been accepted by [KDD 2022](https://kdd.org/kdd2022/index.html)! Paper, code, as well as our human-labeled explanation data are now available at Github [here](https://github.com/YuyangGao/RES)!
 * 03/2022: Serve as the PC member for [KDD 2022](https://kdd.org/kdd2022/).
 * 03/2022: Serve as the Independent Reviewer for journals [TOIS](https://dl.acm.org/journal/tois), [TKDD](https://dl.acm.org/journal/tkdd), [JMLR](https://www.jmlr.org/).
 * 02/2022: Serve as the PC member for [CSCW 2022](https://cscw.acm.org/2022/).
