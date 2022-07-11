@@ -18,6 +18,8 @@ I have published many peer-reviewed full research papers in top-tier conferences
 
 News
 ======
+* 07/2022: Two papers are conditionally accepted by [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) and [CSCW 2022](https://cscw.acm.org/2022/), stay tuned :)
+* 06/2022: Serve as the Independent Reviewer for journals [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) and [TKDD](https://dl.acm.org/journal/tkdd).
 * 05/2022: Our new work on robust visual explanation supervision has been accepted by [KDD 2022](https://kdd.org/kdd2022/index.html)! Paper, code, as well as our human-labeled explanation data are now available at Github [here](https://github.com/YuyangGao/RES)!
 * 03/2022: Serve as the PC member for [KDD 2022](https://kdd.org/kdd2022/).
 * 03/2022: Serve as the Independent Reviewer for journals [TOIS](https://dl.acm.org/journal/tois), [TKDD](https://dl.acm.org/journal/tkdd), [JMLR](https://www.jmlr.org/).
