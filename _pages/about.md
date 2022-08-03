@@ -18,7 +18,7 @@ I have published many peer-reviewed full research papers in top-tier conferences
 
 News
 ======
-* 07/2022: Two papers are conditionally accepted by [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) and [CSCW 2022](https://cscw.acm.org/2022/), stay tuned :)
+* 08/2022: One paper about explanation supervsion has been accepted by [CSCW 2022](https://cscw.acm.org/2022/)! Paper, code, as well as our human-labeled explanation data are now available at Github [here](https://github.com/YuyangGao/GRADIA)!
 * 06/2022: Serve as the Independent Reviewer for journals [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) and [TKDD](https://dl.acm.org/journal/tkdd).
 * 05/2022: Our new work on robust visual explanation supervision has been accepted by [KDD 2022](https://kdd.org/kdd2022/index.html)! Paper, code, as well as our human-labeled explanation data are now available at Github [here](https://github.com/YuyangGao/RES)!
 * 03/2022: Serve as the PC member for [KDD 2022](https://kdd.org/kdd2022/).
@@ -26,7 +26,7 @@ News
 * 02/2022: Serve as the PC member for [CSCW 2022](https://cscw.acm.org/2022/).
 * 09/2021: Serve as the PC member for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 08/2021: Our paper on learning to explain GNNs has been accepted by [ICDM 2021](https://icdm2021.auckland.ac.nz/)! Paper, code, as well as our human-labeled explanation data are now available at Github [here](https://github.com/YuyangGao/GNES)!
-* 08/2021: Our paper on neuro-inspired deep learning has been accepted by [Neural Networks](https://www.journals.elsevier.com/neural-networks)! Paper and code will be available soon!
-* 06/2021: Our paper on modeling patient health stage development with dynamic attributed graphs has been accepted by [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)! 
+<!-- * 08/2021: Our paper on neuro-inspired deep learning has been accepted by [Neural Networks](https://www.journals.elsevier.com/neural-networks)! Paper and code will be available soon!
+* 06/2021: Our paper on modeling patient health stage development with dynamic attributed graphs has been accepted by [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)!  -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wCOebEYBW1at8kUgFzwn93ofWhY_l-zJPQ-u5DpDfLE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
