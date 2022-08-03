@@ -26,7 +26,7 @@ News
 * 02/2022: Serve as the PC member for [CSCW 2022](https://cscw.acm.org/2022/).
 * 09/2021: Serve as the PC member for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * 08/2021: Our paper on learning to explain GNNs has been accepted by [ICDM 2021](https://icdm2021.auckland.ac.nz/)! Paper, code, as well as our human-labeled explanation data are now available at Github [here](https://github.com/YuyangGao/GNES)!
-<!-- * 08/2021: Our paper on neuro-inspired deep learning has been accepted by [Neural Networks](https://www.journals.elsevier.com/neural-networks)! Paper and code will be available soon!
-* 06/2021: Our paper on modeling patient health stage development with dynamic attributed graphs has been accepted by [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)!  -->
+
+<!-- 08/2021: Our paper on neuro-inspired deep learning has been accepted by [Neural Networks](https://www.journals.elsevier.com/neural-networks)! Paper and code will be available soon! 06/2021: Our paper on modeling patient health stage development with dynamic attributed graphs has been accepted by [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)!  -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=wCOebEYBW1at8kUgFzwn93ofWhY_l-zJPQ-u5DpDfLE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
