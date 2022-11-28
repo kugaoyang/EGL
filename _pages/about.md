@@ -10,11 +10,9 @@ redirect_from:
 
 About Me
 ======
-Welcome! I am a Ph.D. student in the Department of Computer Science at Emory University. My Ph.D. advisor is [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). I earned my B.S. degree in Computer Science from Shandong University, China in 2014, and M.S. in Computer Science from George Mason University in 2018 with the [Distinguished Academic Achievement](https://cs.gmu.edu/media/uploads/brochure_2019v212.pdf). My research focuses on data mining and machine learning techniques that can handle complex structured data, such as spatiotemporal and graph-structured data. In addition, I am also interested in opening the ‘black-box’ of the deep learning models via designing the bio-inspired model architectures as well as via enhancing their interpretability and explainability through new technique called <em>explanation supervision</em>. 
+Welcome! I am a Ph.D. student in the Department of Computer Science at Emory University. My Ph.D. advisor is [Dr. Liang Zhao](http://cs.emory.edu/~lzhao41/index.htm). I earned my B.S. degree in Computer Science from Shandong University, China in 2014, and M.S. in Computer Science from George Mason University in 2018 with the [Distinguished Academic Achievement](https://cs.gmu.edu/media/uploads/brochure_2019v212.pdf). My research focuses on data mining and machine learning techniques that can handle complex structured data, such as spatiotemporal and graph-structured data. In addition, I am also interested in opening the ‘black-box’ of the deep learning models via designing the bio-inspired model architectures as well as via enhancing their interpretability and explainability through new technique called <em>Explanation-Guided Learning (EGL)</em>. Stay tuned for our survey on EGL :)
 
 I have published many peer-reviewed full research papers in top-tier conferences and journals such as KDD, AAAI, ICDM, TKDD, TKDE, and Neural Networks. I have also served as the Independent Reviewer and PC member for many top-tier conferences and journals such as KDD, AAAI, CSCW, TKDD, JMLR, TNNLS, and TOIS. You can find more about my works in my [Publication](/publications/), and more about me in my [CV](/cv/).
-
-**I am at the final year of my PhD program and am on the job market this year. Please feel free to contact me via email (yuyang.gao@emory.edu)**
 
 News
 ======
