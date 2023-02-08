@@ -13,7 +13,7 @@ redirect_from:
 ## Education
 * B.S. in Computer Science, Shandong University, China (2010 - 2014)
 * M.S. in Computer Science (GPA: 3.97, [Distinguished Academic Achievement](https://cs.gmu.edu/media/uploads/brochure_2019v212.pdf)), George Mason University (2015 - 2018)
-* Ph.D. in Computer Science, Emory University (2018 - present)
+* Ph.D. in Computer Science, Emory University (2018 - 2022)
 
 ## Work Experience
 * Summer 2020: Research Intern @ [Microsoft Resarch](https://www.microsoft.com/en-us/research/)
