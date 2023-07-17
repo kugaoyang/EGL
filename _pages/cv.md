@@ -34,6 +34,9 @@ redirect_from:
 ## Selected Publications
 
 * Conference Papers
+  * Siyi Gu, Yifei Zhang, **Yuyang Gao**, Xiaofeng Yang, Liang Zhao. DESSA: Explanation Iterative Supervision via Saliency-guided Data Augmentation. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
+  * Tong Sun, **Yuyang Gao**, Shubham Khaladkar, Sijia Lu, Liang Zhao, Young-Ho Kim, Ray Hong. DeepFuse: Designing Direct Feedback Loops between Humans and Convolutional Neural Networks through Local Explanations. Proceedings of the ACM on Human-Computer Interaction (**CSCW 2023**).
+  * Guangji Bai, Chen Ling, **Yuyang Gao**, Liang Zhao. Saliency-Augmented Memory Completion for Continual Learning. SIAM International Conference on Data Mining (**SDM 2023**).
   * **Yuyang Gao**, Tong Sun, Sungsoo Hong, and Liang Zhao. Aligning Eyes between Humans and Deep Neural Network through Interactive Attention Alignment. Proceedings of the ACM on Human-Computer Interaction (**CSCW 2022**), to appear. [\[paper\]](https://arxiv.org/pdf/2202.02838.pdf)  [\[code\]](https://github.com/YuyangGao/GRADIA)
   * **Yuyang Gao**, Tong Sun, Guangxi Bai, Siyi Gu, Sungsoo Hong, and Liang Zhao. RES: A Robust Framework for Guiding Visual Explanation. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2022**) (Acceptance Rate: 14.99%), to appear. [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/KDD2022%20(2).pdf)  [\[code\]](https://github.com/YuyangGao/RES)
   * **Yuyang Gao**, Tong Sun, Rishab Bhatt, Dazhou Yu, Sungsoo Hong, and Liang Zhao. GNES: Learning to Explain Graph Neural Networks. The 21st IEEE International Conference on Data Mining (**ICDM 2021**), (Acceptance Rate: 9.9%).  [\[paper\]](http://cs.emory.edu/~lzhao41/materials/papers/GNES.pdf) [\[code\]](https://github.com/YuyangGao/GNES)
@@ -52,7 +55,11 @@ redirect_from:
 
 
 ## Academic Activities & Services
+* 2023
+  * Served as PC Member for KDD 2023							(02/2023)
 * 2022
+  * Technical Paper Presenter at KDD 2022, Washington DC (08/2022)
+  * Served as Independent Reviewer of Journals TNNLS and TKDD	(06/2022)
   * Served as PC Member for KDD 2022 (3/2022)
   * Served as Independent Reviewer for JMLR (3/2022)
   * Served as Independent Reviewer for TKDD (3/2022)
