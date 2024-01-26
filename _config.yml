@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Explanation-Guided Learning (EGL)"
 title_separator          : "-"
-name                     : &name "Yuyang Gao"
-description              : &description "personal description"
-url                      : https://YuyangGao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "EGL"
+description              : &description "EGL website"
+url                      : https://kugaoyang.github.io/EGL/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuyangGao/YuyangGao.github.io"
+repository               : "https://kugaoyang.github.io/EGL/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,42 +79,42 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Yuyang Gao"
-  avatar           : "profile.png"
-  bio              : "Ph.D. in Computer Science @ Emory University "
-  location         : "Atlanta"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuyang+Gao"
-  googlescholar    : "https://scholar.google.com/citations?user=h0J-7rgAAAAJ&hl=en"
-  email            : "ygao13.personal@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yuyang-Gao-4"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "YuyangGao"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+# author:
+#   name             : "Yuyang Gao"
+#   avatar           : "profile.png"
+#   bio              : "Ph.D. in Computer Science @ Emory University "
+#   location         : "Atlanta"
+#   employer         :
+#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuyang+Gao"
+#   googlescholar    : "https://scholar.google.com/citations?user=h0J-7rgAAAAJ&hl=en"
+#   email            : "ygao13.personal@gmail.com"
+#   researchgate     : "https://www.researchgate.net/profile/Yuyang-Gao-4"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : "YuyangGao"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+#   linkedin         :
+#   orcid            : #"http://orcid.org/yourorcidurl"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          : 
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
@@ -175,12 +175,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
